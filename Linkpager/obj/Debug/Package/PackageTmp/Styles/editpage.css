@@ -1,0 +1,214 @@
+
+#editpage_header {
+	margin-left:10px;
+	margin-right:10px;
+	height:50px;
+	width:940px;
+}
+
+#editpage_header_title {
+	margin-top:10px;
+	font-size:24px;
+	font-weight:bold;
+	float:left;
+}
+
+
+#editpage_header_commands {
+	margin-top:10px;
+	float:right;
+}
+
+.editpage_headerbutton {
+	margin-left:5px;
+}
+
+.editpage_hiddenpanel {
+	margin-left:10px;
+	margin-right:10px;
+	margin-bottom:10px;
+	padding:10px;
+	min-height:100px;
+	width:920px;
+	background:#E6F0E6;
+	display:none;
+}
+
+
+#editpage_main {
+	padding-left:10px;
+	padding-right:10px;
+	padding-bottom:10px;
+}
+
+#editpage_leftcol {
+	padding-top:10px;
+	padding-bottom:10px;
+	padding-left:40px;
+	padding-right:40px;
+	width:610px;
+	background:#8ABEAF;
+	float:left;
+}
+
+
+#editpage_linkpage {
+	padding-bottom:10px;
+	width:600px;
+	background:#FFFFFF;
+}
+
+#viewpage_header {
+	padding:10px;
+	width:580px;
+	min-height:200px;
+}
+
+#viewpage_header_edit {
+	padding:10px;
+	width:580px;
+	min-height:275px;
+	background-color:#E6F0E6;
+}
+
+#viewpage_header_icon {
+	margin-right:8px;
+	margin-bottom:10px;
+	width:200px;
+	height:200px;
+	float:left;
+}
+
+#viewpage_header_text {
+	float:right;
+	width:370px;
+}
+
+.viewpage_linkpage_title {
+	font-size:24px;
+	font-weight:bold;
+	width:370px;
+	min-height:50px;
+}
+
+.viewpage_linkpage_desc {
+	font-size:16px;
+	min-height:110px;
+	width:370px;
+}
+
+#viewpage_header_commands {
+	padding-top:10px;
+	float:right;
+	text-align:right;
+	width:350px;
+	height:30px;
+}
+
+.viewpage_hiddenpanel {
+	clear:both;
+	width:580px;
+	min-height:100px;
+	background: #E6F0E6;
+	display:none;
+}
+
+
+.viewpage_hr {
+	margin-left:10px;
+	margin-right:10px;
+	height:2px;
+	width:580px;
+	background: #1C5973;
+}
+
+.viewpage_link {
+	padding:10px;
+	width:580px;
+	min-height:150px;
+}
+
+.viewpage_link_edit {
+	padding:10px;
+	width:580px;
+	min-height:250px;
+	background-color:#E6F0E6;
+}
+
+.viewpage_link_icon {
+	margin-right:10px;
+	margin-bottom:10px;
+	width:150px;
+	height:150px;
+	float:left;
+}
+
+.viewpage_link_text {
+	float:right;
+	width:420px;
+}
+
+
+.viewpage_link_title {
+	font-size:18px;
+	font-weight:bold;
+	width:420px;
+	min-height:30px;
+}
+
+.viewpage_link_desc {
+	font-size:16px;
+	width:420px;
+	min-height:80px;
+}
+
+.viewpage_link_commands {
+	padding-top:10px;
+	float:right;
+	text-align:right;
+	width:400px;
+	height:30px;
+}
+
+.viewpage_link_share {
+	clear:both;
+	width:580px;
+	min-height:100px;
+	background: #E6F0E6;
+	display:none;
+}
+
+.viewpage_link_more {
+	clear:both;
+	width:580px;
+	min-height:100px;
+	background: #E6F0E6;
+	display:none;
+}
+
+#editpage_rightcol {
+	float:right;
+	width:250px;
+}
+
+#editpage_headercommands {
+	margin-top:20px;
+	margin-left:20px;
+	margin-bottom:80px;
+	padding-left:40px;
+	padding-top:20px;
+	width:190px;
+	height:120px;
+	background-image:url('/Images/interface/editpage_commandbg.png');
+}
+
+.editpage_linkcommands {
+	margin-top:20px;
+	margin-left:20px;
+	margin-bottom:30px;
+	padding-left:40px;
+	padding-top:20px;
+	width:190px;
+	height:120px;
+	background-image:url('/Images/interface/editpage_commandbg.png');
+}
